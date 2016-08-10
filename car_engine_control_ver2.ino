@@ -5,6 +5,10 @@
 // apasare scurta -> deconectare consumatori
 // apasare iar 2-3 secunde -> oprire motor
 // versiune 2.0 - 10.08.2016, Craiova, Romania
+// autor: Nicu FLORICA (niq_ro) - http://www.tehnic.go.ro
+// http://nicuflorica.blogspot.ro/
+// http://arduinotehniq.blogspot.com/
+// http://www.arduinotehniq.com/
 
 #define buton 2    // buton pus la D2
 #define contact1 10
